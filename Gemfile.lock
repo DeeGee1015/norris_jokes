@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    chuck_norris (0.1.0)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  chuck_norris!
+
+BUNDLED WITH
+   2.0.1
